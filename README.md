@@ -69,6 +69,9 @@ This landing page serves as a practical example of how to build a responsive, mu
 
 ![Screenshot (6)](https://github.com/NagaPravallika3007/PRODIGY_WD_01/assets/171419600/d2a3481e-df42-4fa8-990c-9d4593f1596d)
 
+![Screenshot (6)](https://github.com/NagaPravallika3007/PRODIGY_WD_01/assets/171419600/fac69c93-e318-40a9-8d3f-c72bad85ba2b)
+
+
 
 
 
