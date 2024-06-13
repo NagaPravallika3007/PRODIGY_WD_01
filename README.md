@@ -57,17 +57,15 @@ Provides a brief introduction to the company and its commitment to delivering to
 * index.html: Main landing page for the website.
 * styles.css: CSS file for styling the website.
 * script.js: JavaScript file for adding interactive functionality
-* assets: A directory containing images used on the website.
-
 
 ##### Project Goals
 The primary goal of this project is to create a responsive and visually appealing landing page template that can be easily customized for any business. It aims to provide a solid foundation for web development projects, showcasing essential sections and modern design practices.
 
 This landing page serves as a practical example of how to build a responsive, multi-section website that is both functional and aesthetically pleasing. It is suitable for businesses looking to create a strong online presence and effectively communicate their services and values to potential clients.
 
-Project link : https://github.com/NagaPravallika3007/PRODIGY_WD_01.git
+* Project link : https://github.com/NagaPravallika3007/PRODIGY_WD_01.git
 
-##  Screenshot of website
+##  Screenshot of website:
 
 ![Screenshot (6)](https://github.com/NagaPravallika3007/PRODIGY_WD_01/assets/171419600/d2a3481e-df42-4fa8-990c-9d4593f1596d)
 
