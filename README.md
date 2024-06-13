@@ -67,6 +67,9 @@ This landing page serves as a practical example of how to build a responsive, mu
 
 Project link : https://github.com/NagaPravallika3007/PRODIGY_WD_01.git
 
+##  Screenshot of website
+![Uploading welcome.png…]()
+
 
 
 
