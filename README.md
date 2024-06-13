@@ -51,7 +51,14 @@ Provides a brief introduction to the company and its commitment to delivering to
 * Provides multiple ways for visitors to get in touch with the company.
 * Includes email, phone number, and physical address.
 * Encourages visitors to reach out for more information or support
-  
+
+## File structure
+
+* index.html: Main landing page for the website.
+* styles.css: CSS file for styling the website.
+* script.js: JavaScript file for adding interactive functionality
+* assets: A directory containing images used on the website.
+
 
 ##### Project Goals
 The primary goal of this project is to create a responsive and visually appealing landing page template that can be easily customized for any business. It aims to provide a solid foundation for web development projects, showcasing essential sections and modern design practices.
