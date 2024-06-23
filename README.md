@@ -63,7 +63,7 @@ The primary goal of this project is to create a responsive and visually appealin
 
 This landing page serves as a practical example of how to build a responsive, multi-section website that is both functional and aesthetically pleasing. It is suitable for businesses looking to create a strong online presence and effectively communicate their services and values to potential clients.
 
-* Project link : https://nagapravallika3007.github.io/PRODIGY_WD_01/
+* Project link : 
 
 ##  Screenshot of website:
 
@@ -71,8 +71,6 @@ This landing page serves as a practical example of how to build a responsive, mu
 
 
 
-
-https://github.com/sravanthi-27/PRODIGY_WD_01.git
 
 
 
